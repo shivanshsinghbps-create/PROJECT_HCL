@@ -1,0 +1,251 @@
+Student_ID,Gender,Branch,Residence,Attendance_Pct,Study_Hours_Per_Week,Sleep_Hours,Tutoring,Maths_Marks,Physics_Marks,Programming_Marks,Average_Marks,Result_Band,Attendance_Band
+S1001,Female,ME,Day Scholar,74.8,10.6,6.8,Yes,62.0,60.0,73.0,65.0,First Class,60-75%
+S1002,Female,IT,Day Scholar,89.5,11.5,8.1,Yes,72.0,68.0,80.0,73.3,First Class,75-90%
+S1003,Male,CE,Day Scholar,48.6,13.1,7.2,No,55.0,39.0,52.0,48.7,At Risk,<60%
+S1004,Male,ECE,Day Scholar,58.0,15.1,7.6,No,65.0,65.0,66.0,65.3,First Class,<60%
+S1005,Male,CSE,Day Scholar,64.9,7.0,5.9,No,47.0,42.0,48.0,45.7,At Risk,60-75%
+S1006,Female,CE,Day Scholar,93.5,6.8,7.3,Yes,65.0,63.0,68.0,65.3,First Class,>90%
+S1007,Female,ME,Hostel,79.4,17.5,7.5,Yes,94.0,77.0,89.0,86.7,Distinction,75-90%
+S1008,Male,ME,Day Scholar,76.4,9.9,6.2,No,63.0,62.0,67.0,64.0,First Class,75-90%
+S1009,Male,CSE,Day Scholar,62.3,4.9,7.4,Yes,61.0,56.0,59.0,58.7,Pass,60-75%
+S1010,Female,IT,Hostel,62.6,14.2,7.4,Yes,49.0,59.0,50.0,52.7,Pass,60-75%
+S1011,Male,IT,Hostel,81.4,14.3,6.3,Yes,70.0,70.0,72.0,70.7,First Class,75-90%
+S1012,Female,CE,Day Scholar,76.7,4.3,5.7,No,67.0,68.0,64.0,66.3,First Class,75-90%
+S1013,Male,ECE,Hostel,82.6,13.1,5.6,No,71.0,67.0,68.0,68.7,First Class,75-90%
+S1014,Male,ME,Hostel,73.7,15.7,6.9,No,68.0,68.0,80.0,72.0,First Class,60-75%
+S1015,Female,IT,Hostel,79.3,13.9,7.1,No,64.0,59.0,64.0,62.3,First Class,75-90%
+S1016,Male,CSE,Hostel,77.9,15.2,6.0,Yes,70.0,60.0,73.0,67.7,First Class,75-90%
+S1017,Male,ECE,Hostel,85.3,5.0,6.8,No,52.0,61.0,55.0,56.0,Pass,75-90%
+S1018,Male,CSE,Day Scholar,85.7,13.7,7.4,No,62.0,59.0,68.0,63.0,First Class,75-90%
+S1019,Male,ME,Hostel,56.6,10.5,7.4,Yes,62.0,56.0,65.0,61.0,First Class,<60%
+S1020,Male,ECE,Day Scholar,49.0,9.6,8.4,Yes,51.0,47.0,52.0,50.0,Pass,<60%
+S1021,Male,ME,Day Scholar,88.0,16.4,8.1,No,67.0,69.0,79.0,71.7,First Class,75-90%
+S1022,Male,IT,Hostel,90.3,19.4,5.8,Yes,70.0,68.0,85.0,74.3,First Class,>90%
+S1023,Male,CE,Hostel,63.8,21.0,8.5,No,62.0,66.0,72.0,66.7,First Class,60-75%
+S1024,Female,CE,Day Scholar,53.7,18.6,6.3,No,64.0,67.0,69.0,66.7,First Class,<60%
+S1025,Female,ME,Hostel,77.2,11.5,7.8,Yes,78.0,68.0,72.0,72.7,First Class,75-90%
+S1026,Male,CSE,Hostel,76.4,13.8,6.9,No,74.0,62.0,79.0,71.7,First Class,75-90%
+S1027,Male,IT,Day Scholar,97.6,15.8,6.4,No,74.0,72.0,66.0,70.7,First Class,>90%
+S1028,Male,CSE,Day Scholar,82.2,12.6,5.0,No,71.0,71.0,79.0,73.7,First Class,75-90%
+S1029,Female,CSE,Day Scholar,71.5,12.7,6.6,No,62.0,54.0,75.0,63.7,First Class,60-75%
+S1030,Female,ECE,Hostel,76.4,16.1,5.2,No,64.0,51.0,63.0,59.3,Pass,75-90%
+S1031,Male,ME,Day Scholar,76.1,11.7,7.8,No,65.0,59.0,54.0,59.3,Pass,75-90%
+S1032,Male,CE,Day Scholar,72.4,8.4,8.3,Yes,57.0,58.0,59.0,58.0,Pass,60-75%
+S1033,Male,IT,Hostel,63.8,9.9,6.0,No,76.0,68.0,72.0,72.0,First Class,60-75%
+S1034,Male,IT,Day Scholar,76.4,15.2,7.1,Yes,72.0,66.0,80.0,72.7,First Class,75-90%
+S1035,Male,IT,Hostel,97.4,12.0,6.1,No,64.0,66.0,72.0,67.3,First Class,>90%
+S1036,Male,CSE,Hostel,89.6,13.7,6.2,No,70.0,69.0,75.0,71.3,First Class,75-90%
+S1037,Male,CSE,Day Scholar,64.9,15.4,7.6,Yes,66.0,48.0,69.0,61.0,First Class,60-75%
+S1038,Male,IT,Hostel,86.3,10.1,6.8,No,63.0,75.0,81.0,73.0,First Class,75-90%
+S1039,Male,CSE,Hostel,83.7,15.8,8.5,No,80.0,65.0,81.0,75.3,Distinction,75-90%
+S1040,Male,ECE,Day Scholar,81.3,13.9,6.3,Yes,79.0,79.0,91.0,83.0,Distinction,75-90%
+S1041,Female,IT,Day Scholar,91.0,5.8,7.8,Yes,71.0,77.0,81.0,76.3,Distinction,>90%
+S1042,Male,ME,Day Scholar,83.6,19.2,6.9,No,76.0,73.0,76.0,75.0,Distinction,75-90%
+S1043,Female,ME,Day Scholar,84.9,9.5,7.6,No,69.0,66.0,65.0,66.7,First Class,75-90%
+S1044,Male,IT,Day Scholar,83.6,3.7,6.4,No,45.0,36.0,51.0,44.0,At Risk,75-90%
+S1045,Female,ME,Hostel,80.1,6.8,6.8,Yes,70.0,53.0,72.0,65.0,First Class,75-90%
+S1046,Female,ME,Hostel,54.6,6.9,6.7,No,53.0,48.0,53.0,51.3,Pass,<60%
+S1047,Female,IT,Hostel,77.0,12.3,6.0,No,60.0,56.0,66.0,60.7,First Class,75-90%
+S1048,Female,CSE,Hostel,69.3,10.6,7.5,No,65.0,56.0,58.0,59.7,Pass,60-75%
+S1049,Female,ECE,Day Scholar,60.6,10.3,7.5,No,58.0,60.0,55.0,57.7,Pass,60-75%
+S1050,Female,CSE,Hostel,96.2,15.1,7.4,No,68.0,69.0,70.0,69.0,First Class,>90%
+S1051,Female,CSE,Day Scholar,96.7,13.7,8.3,No,73.0,74.0,87.0,78.0,Distinction,>90%
+S1052,Male,CSE,Hostel,92.3,13.6,8.2,No,70.0,53.0,72.0,65.0,First Class,>90%
+S1053,Male,ME,Hostel,79.1,14.0,6.4,No,84.0,77.0,73.0,78.0,Distinction,75-90%
+S1054,Male,ECE,Day Scholar,92.2,12.0,7.2,No,70.0,71.0,71.0,70.7,First Class,>90%
+S1055,Female,ME,Hostel,76.1,1.5,6.2,No,49.0,46.0,67.0,54.0,Pass,75-90%
+S1056,Male,ME,Hostel,78.4,10.2,6.9,No,58.0,59.0,58.0,58.3,Pass,75-90%
+S1057,Male,IT,Hostel,62.9,1.1,6.2,Yes,60.0,64.0,52.0,58.7,Pass,60-75%
+S1058,Female,ECE,Day Scholar,80.8,12.2,8.4,Yes,67.0,73.0,88.0,76.0,Distinction,75-90%
+S1059,Male,CSE,Day Scholar,76.7,12.0,7.2,No,57.0,46.0,72.0,58.3,Pass,75-90%
+S1060,Male,CSE,Day Scholar,60.4,12.0,6.6,No,61.0,48.0,59.0,56.0,Pass,60-75%
+S1061,Male,ECE,Hostel,75.4,17.9,8.0,No,55.0,80.0,71.0,68.7,First Class,75-90%
+S1062,Male,IT,Hostel,75.0,13.0,4.6,No,61.0,54.0,68.0,61.0,First Class,60-75%
+S1063,Male,ECE,Day Scholar,97.6,9.5,4.8,No,73.0,62.0,75.0,70.0,First Class,>90%
+S1064,Male,ME,Day Scholar,86.7,14.4,7.6,No,82.0,80.0,83.0,81.7,Distinction,75-90%
+S1065,Male,ECE,Day Scholar,76.1,9.4,6.9,Yes,62.0,63.0,70.0,65.0,First Class,75-90%
+S1066,Male,ECE,Day Scholar,79.0,12.0,7.1,Yes,60.0,61.0,60.0,60.3,First Class,75-90%
+S1067,Male,ECE,Day Scholar,76.5,16.9,5.5,No,62.0,64.0,67.0,64.3,First Class,75-90%
+S1068,Female,IT,Hostel,73.6,9.2,6.8,No,65.0,65.0,65.0,65.0,First Class,60-75%
+S1069,Male,CSE,Hostel,63.0,16.0,8.8,No,75.0,70.0,78.0,74.3,First Class,60-75%
+S1070,Female,IT,Day Scholar,74.2,15.4,7.6,No,70.0,75.0,69.0,71.3,First Class,60-75%
+S1071,Female,CSE,Hostel,67.0,7.2,7.0,No,55.0,60.0,41.0,52.0,Pass,60-75%
+S1072,Male,IT,Day Scholar,61.0,16.9,6.4,No,60.0,70.0,72.0,67.3,First Class,60-75%
+S1073,Male,CE,Day Scholar,82.1,15.5,6.4,No,77.0,63.0,81.0,73.7,First Class,75-90%
+S1074,Male,CSE,Day Scholar,80.7,12.5,4.7,Yes,67.0,62.0,66.0,65.0,First Class,75-90%
+S1075,Female,CSE,Day Scholar,54.6,8.2,7.1,No,58.0,58.0,58.0,58.0,Pass,<60%
+S1076,Female,CSE,Day Scholar,74.5,7.7,7.6,No,72.0,66.0,61.0,66.3,First Class,60-75%
+S1077,Female,CSE,Day Scholar,87.9,9.3,5.2,No,59.0,59.0,71.0,63.0,First Class,75-90%
+S1078,Male,ECE,Day Scholar,88.7,14.7,6.1,No,54.0,67.0,64.0,61.7,First Class,75-90%
+S1079,Female,ECE,Day Scholar,88.3,7.2,5.6,Yes,59.0,68.0,64.0,63.7,First Class,75-90%
+S1080,Male,ME,Hostel,76.5,14.2,5.8,Yes,72.0,81.0,68.0,73.7,First Class,75-90%
+S1081,Female,ECE,Day Scholar,65.9,5.8,6.9,Yes,60.0,51.0,71.0,60.7,First Class,60-75%
+S1082,Male,IT,Day Scholar,63.0,11.0,4.7,Yes,60.0,54.0,51.0,55.0,Pass,60-75%
+S1083,Female,ME,Hostel,80.1,12.5,7.4,No,57.0,60.0,69.0,62.0,First Class,75-90%
+S1084,Female,CSE,Hostel,80.6,24.2,7.6,No,82.0,73.0,70.0,75.0,Distinction,75-90%
+S1085,Male,CSE,Day Scholar,91.4,5.1,6.5,No,57.0,57.0,66.0,60.0,First Class,>90%
+S1086,Female,CSE,Day Scholar,89.2,19.4,4.3,No,81.0,56.0,74.0,70.3,First Class,75-90%
+S1087,Male,ME,Hostel,74.4,12.7,5.8,Yes,83.0,61.0,55.0,66.3,First Class,60-75%
+S1088,Female,IT,Hostel,61.1,14.1,8.0,Yes,67.0,65.0,69.0,67.0,First Class,60-75%
+S1089,Male,CSE,Hostel,72.2,12.6,4.0,No,58.0,49.0,54.0,53.7,Pass,60-75%
+S1090,Female,ECE,Hostel,78.6,14.2,6.5,Yes,70.0,82.0,62.0,71.3,First Class,75-90%
+S1091,Female,CSE,Day Scholar,73.6,11.2,5.6,No,52.0,61.0,70.0,61.0,First Class,60-75%
+S1092,Female,ECE,Hostel,69.1,19.3,7.6,Yes,69.0,78.0,83.0,76.7,Distinction,60-75%
+S1093,Female,IT,Hostel,79.0,9.7,6.1,No,61.0,67.0,79.0,69.0,First Class,75-90%
+S1094,Female,IT,Day Scholar,70.0,17.7,7.2,No,50.0,61.0,62.0,57.7,Pass,60-75%
+S1095,Female,IT,Hostel,68.5,8.8,7.4,Yes,62.0,52.0,54.0,56.0,Pass,60-75%
+S1096,Female,ECE,Hostel,79.7,11.7,8.6,Yes,64.0,76.0,80.0,73.3,First Class,75-90%
+S1097,Female,IT,Day Scholar,71.2,6.6,6.6,No,60.0,56.0,69.0,61.7,First Class,60-75%
+S1098,Male,CSE,Day Scholar,78.9,14.3,7.2,Yes,70.0,72.0,80.0,74.0,First Class,75-90%
+S1099,Female,CSE,Day Scholar,79.3,19.2,5.3,No,69.0,70.0,67.0,68.7,First Class,75-90%
+S1100,Male,CE,Day Scholar,62.3,11.6,8.0,No,69.0,59.0,66.0,64.7,First Class,60-75%
+S1101,Female,CE,Day Scholar,70.2,11.0,6.0,Yes,69.0,70.0,74.0,71.0,First Class,60-75%
+S1102,Male,ECE,Day Scholar,93.3,6.4,6.2,No,70.0,78.0,58.0,68.7,First Class,>90%
+S1103,Male,CSE,Day Scholar,62.1,10.9,6.8,No,56.0,54.0,62.0,57.3,Pass,60-75%
+S1104,Male,CE,Day Scholar,50.6,4.0,5.2,No,36.0,38.0,53.0,42.3,At Risk,<60%
+S1105,Male,ME,Day Scholar,53.7,7.4,7.0,No,48.0,62.0,62.0,57.3,Pass,<60%
+S1106,Male,ME,Day Scholar,76.3,13.1,7.8,Yes,63.0,79.0,85.0,75.7,Distinction,75-90%
+S1107,Female,IT,Day Scholar,76.4,18.6,7.1,Yes,76.0,75.0,80.0,77.0,Distinction,75-90%
+S1108,Female,CSE,Hostel,74.6,26.0,5.2,No,74.0,57.0,75.0,68.7,First Class,60-75%
+S1109,Male,CSE,Day Scholar,90.6,9.1,6.7,No,62.0,71.0,74.0,69.0,First Class,>90%
+S1110,Female,CE,Hostel,43.9,19.2,7.5,Yes,68.0,53.0,66.0,62.3,First Class,<60%
+S1111,Female,IT,Day Scholar,80.8,13.2,4.9,Yes,78.0,85.0,74.0,79.0,Distinction,75-90%
+S1112,Male,CSE,Day Scholar,94.7,11.2,5.7,No,52.0,64.0,75.0,63.7,First Class,>90%
+S1113,Male,IT,Day Scholar,62.5,14.2,7.7,No,64.0,65.0,71.0,66.7,First Class,60-75%
+S1114,Male,ECE,Day Scholar,71.4,12.3,7.1,Yes,72.0,62.0,66.0,66.7,First Class,60-75%
+S1115,Female,CSE,Hostel,67.0,12.6,7.2,No,65.0,51.0,70.0,62.0,First Class,60-75%
+S1116,Male,CE,Day Scholar,65.3,10.0,8.7,No,46.0,53.0,55.0,51.3,Pass,60-75%
+S1117,Female,ME,Day Scholar,72.1,5.0,7.3,No,59.0,56.0,62.0,59.0,Pass,60-75%
+S1118,Female,ME,Hostel,76.4,4.3,7.5,Yes,74.0,63.0,73.0,70.0,First Class,75-90%
+S1119,Male,IT,Hostel,98.0,15.3,9.0,Yes,83.0,77.0,86.0,82.0,Distinction,>90%
+S1120,Female,ECE,Hostel,72.0,10.6,6.6,No,62.0,77.0,65.0,68.0,First Class,60-75%
+S1121,Female,ECE,Day Scholar,98.9,9.0,6.0,No,65.0,70.0,78.0,71.0,First Class,>90%
+S1122,Male,ECE,Day Scholar,76.4,12.0,7.2,No,68.0,76.0,76.0,73.3,First Class,75-90%
+S1123,Male,CSE,Day Scholar,97.0,16.0,7.2,No,73.0,74.0,76.0,74.3,First Class,>90%
+S1124,Male,IT,Day Scholar,74.9,12.9,6.3,No,63.0,69.0,59.0,63.7,First Class,60-75%
+S1125,Male,CSE,Day Scholar,77.6,8.7,5.8,No,65.0,58.0,77.0,66.7,First Class,75-90%
+S1126,Male,IT,Hostel,80.4,18.1,9.0,No,77.0,62.0,81.0,73.3,First Class,75-90%
+S1127,Female,IT,Day Scholar,100.0,19.9,7.1,No,77.0,69.0,79.0,75.0,Distinction,>90%
+S1128,Male,CSE,Hostel,86.2,14.5,6.1,No,64.0,66.0,56.0,62.0,First Class,75-90%
+S1129,Male,CSE,Day Scholar,67.5,16.9,7.7,Yes,64.0,51.0,56.0,57.0,Pass,60-75%
+S1130,Female,ECE,Day Scholar,76.4,18.2,6.7,No,80.0,71.0,84.0,78.3,Distinction,75-90%
+S1131,Male,CSE,Day Scholar,71.7,17.7,6.5,No,58.0,57.0,67.0,60.7,First Class,60-75%
+S1132,Female,CE,Day Scholar,70.1,15.1,7.4,Yes,56.0,74.0,57.0,62.3,First Class,60-75%
+S1133,Female,ECE,Hostel,86.9,15.0,5.5,No,83.0,77.0,82.0,80.7,Distinction,75-90%
+S1134,Male,IT,Hostel,76.4,14.6,7.2,Yes,68.0,69.0,66.0,67.7,First Class,75-90%
+S1135,Male,ECE,Hostel,79.3,6.5,8.7,Yes,64.0,66.0,75.0,68.3,First Class,75-90%
+S1136,Female,CSE,Hostel,76.2,15.5,7.3,No,62.0,64.0,68.0,64.7,First Class,75-90%
+S1137,Female,CE,Day Scholar,80.0,5.2,6.4,Yes,70.0,64.0,68.0,67.3,First Class,75-90%
+S1138,Female,IT,Day Scholar,81.1,8.0,6.3,No,63.0,55.0,73.0,63.7,First Class,75-90%
+S1139,Male,ME,Day Scholar,52.8,18.5,6.4,No,57.0,45.0,57.0,53.0,Pass,<60%
+S1140,Female,CSE,Day Scholar,84.0,16.2,6.5,No,79.0,69.0,66.0,71.3,First Class,75-90%
+S1141,Female,IT,Day Scholar,64.2,19.4,6.4,Yes,70.0,76.0,77.0,74.3,First Class,60-75%
+S1142,Male,IT,Day Scholar,58.7,10.6,7.7,Yes,58.0,68.0,69.0,65.0,First Class,<60%
+S1143,Female,CE,Hostel,75.3,6.2,5.1,Yes,56.0,62.0,48.0,55.3,Pass,75-90%
+S1144,Female,ECE,Hostel,77.0,10.8,7.7,Yes,72.0,77.0,62.0,70.3,First Class,75-90%
+S1145,Male,IT,Day Scholar,67.7,12.5,6.4,No,60.0,49.0,64.0,57.7,Pass,60-75%
+S1146,Male,CSE,Day Scholar,86.0,12.4,7.2,No,80.0,71.0,73.0,74.7,First Class,75-90%
+S1147,Female,IT,Hostel,59.9,17.7,5.7,Yes,74.0,74.0,73.0,73.7,First Class,<60%
+S1148,Male,ECE,Day Scholar,71.1,10.2,8.1,No,65.0,76.0,53.0,64.7,First Class,60-75%
+S1149,Male,IT,Day Scholar,69.0,13.8,8.0,No,63.0,72.0,63.0,66.0,First Class,60-75%
+S1150,Male,CSE,Hostel,75.4,7.1,7.8,Yes,62.0,66.0,63.0,63.7,First Class,75-90%
+S1151,Male,ME,Hostel,79.3,14.3,5.3,Yes,75.0,70.0,82.0,75.7,Distinction,75-90%
+S1152,Female,CE,Day Scholar,63.9,12.0,7.6,No,60.0,51.0,56.0,55.7,Pass,60-75%
+S1153,Female,CSE,Day Scholar,84.7,8.3,7.2,No,69.0,67.0,77.0,71.0,First Class,75-90%
+S1154,Male,ECE,Hostel,76.8,10.8,5.2,Yes,74.0,62.0,69.0,68.3,First Class,75-90%
+S1155,Female,CSE,Day Scholar,53.3,11.1,6.8,No,54.0,50.0,51.0,51.7,Pass,<60%
+S1156,Female,ECE,Hostel,52.5,10.6,7.2,No,47.0,50.0,64.0,53.7,Pass,<60%
+S1157,Male,CSE,Day Scholar,75.9,20.9,7.4,No,68.0,75.0,70.0,71.0,First Class,75-90%
+S1158,Female,ECE,Hostel,73.3,11.5,7.0,Yes,60.0,57.0,59.0,58.7,Pass,60-75%
+S1159,Male,ME,Day Scholar,74.8,10.8,7.1,Yes,58.0,40.0,58.0,52.0,Pass,60-75%
+S1160,Female,ME,Hostel,75.7,1.5,8.3,No,71.0,58.0,67.0,65.3,First Class,75-90%
+S1161,Female,CSE,Hostel,78.7,7.5,8.0,No,67.0,64.0,81.0,70.7,First Class,75-90%
+S1162,Female,CE,Day Scholar,87.4,10.7,4.0,No,76.0,72.0,71.0,73.0,First Class,75-90%
+S1163,Male,CSE,Hostel,62.7,8.6,6.5,No,55.0,46.0,50.0,50.3,Pass,60-75%
+S1164,Female,CSE,Hostel,61.9,18.9,6.6,Yes,74.0,70.0,76.0,73.3,First Class,60-75%
+S1165,Male,ECE,Hostel,62.9,11.2,5.0,No,80.0,69.0,63.0,70.7,First Class,60-75%
+S1166,Male,IT,Day Scholar,79.5,18.4,6.9,No,67.0,58.0,71.0,65.3,First Class,75-90%
+S1167,Male,ME,Day Scholar,90.9,12.3,8.0,No,72.0,65.0,72.0,69.7,First Class,>90%
+S1168,Female,ME,Day Scholar,70.8,12.2,5.7,No,48.0,55.0,62.0,55.0,Pass,60-75%
+S1169,Male,IT,Hostel,46.0,11.6,7.1,No,54.0,50.0,65.0,56.3,Pass,<60%
+S1170,Female,CE,Hostel,55.6,12.0,5.9,No,54.0,41.0,52.0,49.0,At Risk,<60%
+S1171,Female,CSE,Hostel,66.0,20.6,6.1,No,76.0,73.0,71.0,73.3,First Class,60-75%
+S1172,Male,ECE,Day Scholar,69.3,12.0,8.3,No,45.0,48.0,49.0,47.3,At Risk,60-75%
+S1173,Male,CSE,Day Scholar,71.1,2.0,6.3,No,63.0,53.0,54.0,56.7,Pass,60-75%
+S1174,Male,CE,Day Scholar,76.5,9.3,7.3,Yes,69.0,56.0,75.0,66.7,First Class,75-90%
+S1175,Female,CSE,Day Scholar,72.3,12.1,4.9,Yes,60.0,65.0,64.0,63.0,First Class,60-75%
+S1176,Female,CSE,Hostel,88.6,15.5,8.7,Yes,85.0,57.0,65.0,69.0,First Class,75-90%
+S1177,Male,IT,Day Scholar,67.9,14.4,7.4,No,56.0,53.0,50.0,53.0,Pass,60-75%
+S1178,Female,CE,Day Scholar,65.7,10.1,6.6,No,53.0,50.0,68.0,57.0,Pass,60-75%
+S1179,Male,CE,Hostel,81.7,17.1,7.4,No,64.0,59.0,69.0,64.0,First Class,75-90%
+S1180,Female,ME,Hostel,57.6,17.2,5.4,No,50.0,51.0,68.0,56.3,Pass,<60%
+S1181,Female,CE,Hostel,80.7,12.9,8.0,No,75.0,66.0,68.0,69.7,First Class,75-90%
+S1182,Female,CE,Hostel,77.2,16.8,6.5,No,65.0,61.0,71.0,65.7,First Class,75-90%
+S1183,Female,ECE,Hostel,74.2,13.4,6.9,Yes,64.0,64.0,79.0,69.0,First Class,60-75%
+S1184,Female,IT,Day Scholar,95.1,9.2,6.3,No,64.0,60.0,61.0,61.7,First Class,>90%
+S1185,Male,ME,Day Scholar,68.5,15.5,6.2,No,75.0,75.0,61.0,70.3,First Class,60-75%
+S1186,Male,ECE,Hostel,100.0,12.6,7.5,No,71.0,75.0,85.0,77.0,Distinction,>90%
+S1187,Male,IT,Hostel,73.3,12.0,7.1,Yes,59.0,60.0,63.0,60.7,First Class,60-75%
+S1188,Male,CSE,Day Scholar,60.7,19.4,7.5,No,71.0,63.0,72.0,68.7,First Class,60-75%
+S1189,Female,ME,Day Scholar,76.8,12.0,6.8,No,51.0,36.0,46.0,44.3,At Risk,75-90%
+S1190,Female,CSE,Day Scholar,63.1,4.9,7.3,No,55.0,53.0,57.0,55.0,Pass,60-75%
+S1191,Female,CE,Hostel,67.0,6.1,6.4,No,51.0,52.0,53.0,52.0,Pass,60-75%
+S1192,Male,CSE,Day Scholar,80.8,10.2,9.0,No,66.0,45.0,63.0,58.0,Pass,75-90%
+S1193,Female,CSE,Hostel,82.7,10.7,5.2,No,63.0,62.0,72.0,65.7,First Class,75-90%
+S1194,Male,ME,Hostel,68.5,4.5,8.1,No,47.0,43.0,46.0,45.3,At Risk,60-75%
+S1195,Male,CSE,Day Scholar,87.8,7.1,8.2,No,60.0,73.0,64.0,65.7,First Class,75-90%
+S1196,Female,CSE,Day Scholar,89.9,7.7,5.9,No,75.0,55.0,67.0,65.7,First Class,75-90%
+S1197,Female,ECE,Day Scholar,76.4,24.3,9.0,Yes,74.0,60.0,64.0,66.0,First Class,75-90%
+S1198,Female,CE,Day Scholar,82.4,21.0,7.8,No,85.0,86.0,81.0,84.0,Distinction,75-90%
+S1199,Male,CSE,Day Scholar,92.4,9.9,7.8,No,60.0,58.0,55.0,57.7,Pass,>90%
+S1200,Female,IT,Hostel,53.4,10.2,6.8,Yes,72.0,49.0,55.0,58.7,Pass,<60%
+S1201,Male,ME,Hostel,72.2,6.3,6.6,No,52.0,57.0,63.0,57.3,Pass,60-75%
+S1202,Female,CE,Hostel,65.6,2.5,6.6,No,45.0,52.0,52.0,49.7,At Risk,60-75%
+S1203,Female,ECE,Hostel,77.4,11.4,6.9,No,53.0,41.0,55.0,49.7,At Risk,75-90%
+S1204,Male,CSE,Day Scholar,69.1,7.0,8.2,No,47.0,38.0,58.0,47.7,At Risk,60-75%
+S1205,Male,CSE,Hostel,74.0,11.6,7.0,No,62.0,65.0,79.0,68.7,First Class,60-75%
+S1206,Male,CSE,Day Scholar,98.6,4.0,5.9,No,52.0,61.0,53.0,55.3,Pass,>90%
+S1207,Female,CSE,Day Scholar,74.0,8.2,7.6,No,58.0,61.0,70.0,63.0,First Class,60-75%
+S1208,Male,ECE,Day Scholar,81.0,12.7,7.7,No,68.0,65.0,67.0,66.7,First Class,75-90%
+S1209,Female,CSE,Hostel,73.2,13.8,7.5,No,64.0,64.0,63.0,63.7,First Class,60-75%
+S1210,Female,ECE,Day Scholar,76.9,14.1,7.5,No,67.0,74.0,75.0,72.0,First Class,75-90%
+S1211,Male,ECE,Day Scholar,76.1,5.4,6.5,Yes,59.0,50.0,61.0,56.7,Pass,75-90%
+S1212,Male,ECE,Day Scholar,81.4,16.3,5.9,Yes,81.0,76.0,69.0,75.3,Distinction,75-90%
+S1213,Female,CSE,Day Scholar,90.0,8.0,5.9,No,66.0,77.0,73.0,72.0,First Class,75-90%
+S1214,Male,ME,Day Scholar,95.8,15.2,5.2,No,78.0,54.0,75.0,69.0,First Class,>90%
+S1215,Male,ME,Day Scholar,79.7,11.9,7.0,No,65.0,68.0,64.0,65.7,First Class,75-90%
+S1216,Female,ME,Hostel,83.1,5.1,6.7,Yes,47.0,50.0,66.0,54.3,Pass,75-90%
+S1217,Female,CSE,Day Scholar,62.2,10.4,6.4,No,59.0,63.0,63.0,61.7,First Class,60-75%
+S1218,Female,CSE,Hostel,74.9,13.8,4.0,No,49.0,56.0,52.0,52.3,Pass,60-75%
+S1219,Male,CE,Day Scholar,87.3,15.1,5.6,Yes,82.0,74.0,85.0,80.3,Distinction,75-90%
+S1220,Male,IT,Day Scholar,86.4,11.3,7.9,No,66.0,59.0,58.0,61.0,First Class,75-90%
+S1221,Male,IT,Day Scholar,78.5,19.7,6.1,No,64.0,67.0,68.0,66.3,First Class,75-90%
+S1222,Male,IT,Hostel,86.6,17.0,7.2,Yes,84.0,76.0,82.0,80.7,Distinction,75-90%
+S1223,Male,ECE,Hostel,81.9,10.7,5.4,No,64.0,58.0,51.0,57.7,Pass,75-90%
+S1224,Male,CE,Day Scholar,90.4,15.8,8.2,Yes,74.0,68.0,64.0,68.7,First Class,>90%
+S1225,Male,CSE,Hostel,79.5,21.7,6.7,No,70.0,77.0,71.0,72.7,First Class,75-90%
+S1226,Male,CE,Hostel,71.7,21.8,7.1,No,61.0,59.0,68.0,62.7,First Class,60-75%
+S1227,Male,CSE,Hostel,80.0,5.9,9.0,No,49.0,51.0,48.0,49.3,At Risk,75-90%
+S1228,Female,ECE,Hostel,40.8,7.4,8.3,Yes,51.0,52.0,60.0,54.3,Pass,<60%
+S1229,Female,ECE,Day Scholar,80.6,19.4,6.5,No,53.0,78.0,72.0,67.7,First Class,75-90%
+S1230,Male,CSE,Day Scholar,40.0,6.7,6.2,No,43.0,39.0,49.0,43.7,At Risk,<60%
+S1231,Male,CSE,Hostel,55.3,5.4,6.5,Yes,50.0,45.0,52.0,49.0,At Risk,<60%
+S1232,Male,IT,Hostel,81.4,9.6,7.3,Yes,61.0,65.0,67.0,64.3,First Class,75-90%
+S1233,Female,CE,Hostel,81.7,14.1,6.7,Yes,76.0,84.0,78.0,79.3,Distinction,75-90%
+S1234,Male,ECE,Hostel,62.1,11.5,6.4,No,56.0,54.0,67.0,59.0,Pass,60-75%
+S1235,Male,CE,Hostel,67.5,8.7,8.3,No,58.0,55.0,55.0,56.0,Pass,60-75%
+S1236,Male,ME,Day Scholar,92.4,8.6,6.7,No,58.0,59.0,64.0,60.3,First Class,>90%
+S1237,Male,IT,Hostel,70.2,8.4,9.0,No,59.0,49.0,65.0,57.7,Pass,60-75%
+S1238,Male,ME,Hostel,100.0,7.6,6.9,No,75.0,64.0,72.0,70.3,First Class,>90%
+S1239,Male,CSE,Hostel,76.0,23.4,8.6,No,69.0,69.0,72.0,70.0,First Class,75-90%
+S1240,Male,CSE,Hostel,80.9,13.5,7.2,No,69.0,76.0,76.0,73.7,First Class,75-90%
+S1241,Female,ME,Hostel,95.4,16.4,7.8,No,72.0,63.0,54.0,63.0,First Class,>90%
+S1242,Female,ME,Hostel,77.6,9.6,6.1,Yes,68.0,51.0,68.0,62.3,First Class,75-90%
+S1243,Female,CSE,Day Scholar,64.0,11.1,5.9,No,54.0,43.0,58.0,51.7,Pass,60-75%
+S1244,Male,ECE,Hostel,74.7,8.4,7.3,No,66.0,52.0,63.0,60.3,First Class,60-75%
+S1245,Female,ECE,Day Scholar,75.6,1.0,7.8,No,56.0,40.0,56.0,50.7,Pass,75-90%
+S1246,Male,CE,Day Scholar,59.6,5.1,6.8,No,59.0,48.0,52.0,53.0,Pass,<60%
+S1247,Male,ECE,Hostel,72.9,2.9,6.9,Yes,67.0,47.0,51.0,55.0,Pass,60-75%
+S1248,Female,IT,Hostel,67.1,1.0,5.4,No,42.0,41.0,48.0,43.7,At Risk,60-75%
+S1249,Male,IT,Day Scholar,87.1,6.0,5.4,No,64.0,58.0,67.0,63.0,First Class,75-90%
+S1250,Male,IT,Day Scholar,76.4,12.0,5.0,No,72.0,68.0,75.0,71.7,First Class,75-90%
